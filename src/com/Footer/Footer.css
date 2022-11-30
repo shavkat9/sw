@@ -1,0 +1,117 @@
+.footer__body {
+    position: relative;
+    width: 100%;
+    height: 340px;
+    background-color: #171836;
+}
+.footer__container {
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    background-color: #171836;
+    line-height: 30px;
+}
+.footer__section {
+    margin-top: 50px;
+    font-size: 20px;
+    color: rgba(206, 172, 172, 0.7);
+    line-height: 40px;
+    opacity: 0.6;      
+}
+.footer__items {
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgba(218, 187, 187, 0.7);
+    opacity: 0.6; 
+}
+.footer__services {
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgba(202, 174, 174, 0.7);
+    opacity: 0.6; 
+}
+.footer__info {
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgba(255, 255, 255, 0.7);
+    opacity: 0.6; 
+}
+.footer__apps {
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgba(255, 255, 255, 0.7);
+    opacity: 0.6; 
+}
+.footer__container ul li {
+    list-style: none;
+}
+.footer__container ul li a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.7);
+    opacity: 0.6;    
+}
+.footer__container span {
+    color: #fff;
+    font-size: 20px;
+}
+.footer {
+    color: #acadc9;
+    font-size: 32px;
+}
+.footer__section img {
+    padding: 10px;
+}
+.footer__section img:hover {
+    background-color: #000;
+    border-radius: 6px;
+}
+.footer__body strong {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+}
+.footer__body hr {
+    color: white;
+}
+.footer__logo {
+    position: absolute;
+    top: 201px;
+    right: 0;
+    left: 241px;
+    bottom: 0;
+    width: 33px;
+}
+@media screen and (min-width: 600px){
+    .footer__body {
+        position: relative;
+        width: 100%;
+        height: 340px;
+        background-color: #171836;
+    }
+    .footer__container {
+        width: 80%;
+        display: flex;
+        margin: auto;
+        justify-content: space-around;
+        background-color: #171836;
+        line-height: 30px;
+    }
+    .footer__container ul li a {
+        text-decoration: none;
+        font-weight: 400;
+        font-size: 10px;
+        color: red;
+        line-height: 24px;
+        color: rgba(255, 255, 255, 0.7);
+        opacity: 0.6;    
+    }
+}

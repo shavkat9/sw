@@ -1,0 +1,284 @@
+.header__main {
+    width: 100%;
+    min-height: 800px;
+    background-color:#171836;
+}
+.header__texts span {
+    color: red;
+}
+.header__image img {
+    width: 600px;
+    margin-top: 130px;
+    margin-left: 30px;
+    left: 51.85px;
+    top: 150px;
+}
+.header__texts {
+    margin-top: 80px;
+}
+.header__texts h1 {
+    position: absolute;
+    width: 484px;
+    height: 219px;
+    left: 714px;
+    top: 172px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 105%;
+    letter-spacing: -0.01em;
+    color: rgba(255, 255, 255, 0.8);
+}
+.header__texts p {
+    position: absolute;
+    width: 478px;
+    height: 27px;
+    left: 714px;
+    top: 405px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: rgba(255, 255, 255, 0.4);
+}
+.header__texts input {
+    position: absolute;
+    width: 456px;
+    height: 50px;
+    left: 714px;
+    top: 478px;
+    background: #1F2143;
+    border-radius: 12px;
+}
+.header__texts strong {
+    position: absolute;
+    width: 213px;
+    height: 24px;
+    left: 746px;
+    top: 495px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: rgba(255, 255, 255, 0.4);
+}
+.header__texts span {
+    position: absolute;
+    width: 106px;
+    height: 27px;
+    left: 718px;
+    top: 554px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: rgba(255, 255, 255, 0.4);
+}
+.header__texts .header__design {
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    top: 600px;
+    left: 717px;
+    right: 0;
+    color: rgba(154, 156, 203, 0.6);
+    background-color: #171836;
+    border: none;
+    border:  1px solid rgba(154, 156, 203, 0.6);;
+    border-radius: 5px;
+}
+.header__texts .header__fund {
+    position: absolute;
+    width: 140px;
+    height: 30px;
+    top: 600px;
+    left: 857px;
+    right: 0;
+    color: rgba(154, 156, 203, 0.6);
+    background-color: #171836;
+    border: none;
+    border:  1px solid rgba(154, 156, 203, 0.6);;
+    border-radius: 5px;
+}
+.header__texts .header__desi {
+    position: absolute;
+    width: 170px;
+    height: 30px;
+    top: 600px;
+    left: 1017px;
+    right: 0;
+    color: rgba(154, 156, 203, 0.6);
+    background-color: #171836;
+    border: none;
+    border:  1px solid rgba(154, 156, 203, 0.6);;
+    border-radius: 5px;
+}
+.header__texts .header__website {
+    position: absolute;
+    width: 170px;
+    height: 30px;
+    top: 650px;
+    left: 717px;
+    right: 0;
+    color: rgba(154, 156, 203, 0.6);
+    background-color: #171836;
+    border: none;
+    border:  1px solid rgba(154, 156, 203, 0.6);;
+    border-radius: 5px;
+}
+.header__texts .header__logo {
+    position: absolute;
+    width: 110px;
+    height: 30px;
+    top: 650px;
+    left: 905px;
+    right: 0;
+    color: rgba(154, 156, 203, 0.6);
+    background-color: #171836;
+    border: none;
+    border:  1px solid rgba(154, 156, 203, 0.6);;
+    border-radius: 5px;
+}
+.header__texts .header__icon {
+    position: absolute;
+    width: 110px;
+    height: 30px;
+    top: 650px;
+    left: 1035px;
+    right: 0;
+    color: rgba(154, 156, 203, 0.6);
+    background-color: #171836;
+    border: none;
+    border:  1px solid rgba(154, 156, 203, 0.6);;
+    border-radius: 5px;
+}
+.header__texts .header__search {
+    position: absolute;
+    left: 84.5%;
+    right: 59.83%;
+    top: 78.9%;
+    bottom: 20.83%;
+    border-radius: 5px;
+    width: 20px;
+    z-index: 2;
+    border: 3px solid #9A9CCB;
+}
+.header__texts .header__lamp {
+    width: 80px;
+    position: absolute;
+    left: 4.43%;
+    right: -13.79%;
+    top: 44.85%;
+    bottom: -114.63%;
+    transform: matrix(0.99, -0.15, -0.15, -0.99, 0, 0);
+    background: linear-gradient(180deg, rgba(76, 94, 157, 0.9) -32.08%, rgba(23, 24, 54, 0.9) 127.36%);
+    border-radius: 20px;
+    transform: rotate(-8.82deg);
+}
+.header__texts .header__lamps {
+    width: 55px;
+    position: absolute;
+    left: 5.43%;
+    right: -13.79%;
+    top: 46.85%;
+    bottom: -114.63%;
+    transform: rotate(-7.82deg);
+}
+.header__texts .header__ellip {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 48.85px;
+    top: 208.99px;
+    border-radius: 10px;
+    background: #E75353;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.header__texts .header__line {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 476.08px;
+    top: 158.15px;
+    background: linear-gradient(180deg, rgba(76, 94, 157, 0.9) -32.08%, rgba(23, 24, 54, 0.9) 127.36%);
+    border-radius: 20px;
+    transform: rotate(12.79deg);
+}
+.header__texts .header__book {
+    position: absolute;
+    left: 36.68%;
+    right: -54.43%;
+    top: 27.19%;
+    bottom: 9.56%;
+    width: 35px;
+    border-radius: 4px;
+    transform: rotate(1.03deg);
+}
+.header__group {
+    position: absolute;
+    width: 333px;
+    height: 82px;
+    left: 354px;
+    top: 650px;
+    background: linear-gradient(180deg, rgba(76, 94, 157, 0.8) -32.08%, rgba(23, 24, 54, 0.8) 127.36%);
+    border-radius: 20px;
+}
+.header__yellow {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 20px;
+    top: 20px;
+}
+.header__green {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 60px;
+    top: 20px;
+}
+.header__blue {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 100px;
+    top: 20px;
+}
+.header__pink {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 130px;
+    top: 20px;
+}
+.header__black {
+    position: absolute;
+    left: 48.83%;
+    right: 20.83%;
+    top: 25%;
+    bottom: 50%;
+    border-radius: 55px ;
+    outline: none;
+}
+.header__black__white {
+    position: absolute;
+    width: 100px;
+    height: 34px;
+    left: 220px;
+    top: 31px;
+    border: none;
+    outline: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 160%;
+    color: #BBBBC4;
+}
+.header__texts button:hover {
+    background-color: #1c2094;
+    cursor: pointer;
+
+}

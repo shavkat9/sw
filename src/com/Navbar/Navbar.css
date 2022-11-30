@@ -1,0 +1,76 @@
+
+.container {
+    position: absolute;
+    width: 1529px;
+    left: 0px;
+    top: 0px;
+    z-index: 2;
+    background: #171836;
+}
+.navbar__content ul {
+    margin: 40px 200px 30px ;
+    width: 45%;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: green;
+}
+.navbar__content ul li a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.6);
+}
+.navbar__content ul li a:hover {
+    color: rgb(76, 76, 155);
+}
+.navbar__snauw {
+    position: absolute;
+    width: 80px;
+    height: 22.19px;
+    left: 120px;
+    top: 39px;
+    font-weight: 400;
+    font-size: 10.19px;
+    line-height: 150%;
+}
+.navbar__section button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 32px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    border: none;
+    gap: 10px;
+    position: absolute;
+    width: 102px;
+    height: 41px;
+    left: 1170px;
+    top: 29px;
+    background: #F5443B;
+    border-radius: 6px;
+}
+.navbar__section button:hover {
+    background-color: #6063c0;
+    cursor: pointer;
+}
+.navbar__section h2 {
+    position: absolute;
+    width: 22px;
+    height: 18px;
+    left: 1090px;
+    top: 37px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 150%;
+    color: #D1D1D7;
+}
+.navbar__round {
+    position: absolute;
+    left: 99.33%;
+    right: 40.33%;
+    top: 42.90%;
+    bottom: 7.33%;
+}
